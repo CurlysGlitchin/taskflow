@@ -2,7 +2,7 @@
 
 A clean, fully-featured personal task manager built as a single HTML file — no installs, no accounts, no subscriptions. Just open it and start tracking.
 
-**Live app:**[https://curlyglitch.github.io/taskflow](https://curlysglitchin.github.io/taskflow/)
+**Live app:**[https://curlysglitchin.github.io/taskflow](https://curlysglitchin.github.io/taskflow/)
 
 -----
 
